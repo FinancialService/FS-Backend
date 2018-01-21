@@ -6,4 +6,11 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>Ramas-Fs-Register</artifactId>
+  <dependencies>
+  <dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-web</artifactId>
+    <version>1.5.7.RELEASE</version>
+</dependency>
+  </dependencies>
 </project>
